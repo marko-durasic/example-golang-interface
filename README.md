@@ -1,7 +1,3 @@
----
-toc: true
-comments: true
----
 # Example code Golang (Go) with interface #
 
 This is an example of how to use interfaces in golang and their benefits
